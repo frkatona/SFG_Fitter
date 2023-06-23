@@ -6,3 +6,6 @@
 
 ## To-do
  - automate parameter optimization
+
+image:
+![sample](sample.png "Sample Plot")
